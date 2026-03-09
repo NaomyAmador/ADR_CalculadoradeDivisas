@@ -15,3 +15,6 @@ print("El equivalente de la moneda extrajera elegida es: ", resultado)
 #Colombia: 1 USD = 0.000265
 #Mexico: 1 USD = 0.059
 #Reino Unido: 1 USD = 0.787
+
+#Forma simple de hacerlo
+#print(exchange_money(400, 0.000265))
